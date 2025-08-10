@@ -29,6 +29,8 @@ body {
     background-size: contain;
     background-position: center center;
     background-attachment: scroll; /* better perf on mobile */
+    background-color: #ffffff; /* show white around the image */
+    color: #000000; /* text black on mobile */
   }
 }
 
